@@ -5,3 +5,4 @@ Sigmoid
 Tanh
 ReLu
 Softplus
+SeLu
