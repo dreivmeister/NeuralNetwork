@@ -1,4 +1,4 @@
-within NeuralNetwork.Examples.Utilities;
+within NeuralNetwork.Networks;
 
 block EchoStateNetwork "Echo State Network"
   import Modelica.Blocks.Interfaces.RealInput;
